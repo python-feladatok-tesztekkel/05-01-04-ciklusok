@@ -12,7 +12,7 @@
 # 2. feladat
 # Írjon függvényt ketto_hatvany néven
 # A függvény bemeti paramétere a kitevő
-# Ha a kitevő az egy, akkor a visszatérési érték legyen a kitte kitevőedik hatványa
+# Ha a kitevő az egy, akkor a visszatérési érték legyen a kettő kitevőedik hatványa
 # Ha a kitevő nulla, akkor a visszatérési érték legyen egy
 # Más kitevő esetén a visszatérési érték legyen nulla
 
