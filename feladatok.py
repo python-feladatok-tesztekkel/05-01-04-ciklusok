@@ -14,7 +14,7 @@
 # A függvény bemeti paramétere a kitevő
 # Ha a kitevő egy vagy annál nagyobb, akkor a visszatérési érték legyen a kettő kitevőedik hatványa
 # Ha a kitevő nulla, akkor a visszatérési érték legyen egy
-# Más kitevő esetén a visszatérési érték legyen None
+# Negatív kitevő esetén a visszatérési érték legyen None
 
 # 3. feladat
 # Készítsen függvényt szorzat_es_osszeg néven
